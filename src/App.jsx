@@ -7,7 +7,7 @@ export default function App() {
   let [gameInterval] = useState(null)
   let [toJump] = useState(false)
   
-  {/* Criando pontuacão do jogo de forma dinâmica */}
+  {/* Criando pontuação do jogo de forma dinâmica */}
   const createScore = () => {
     const scoreElement = document.getElementById("score")
     scoreElement.textContent = score
