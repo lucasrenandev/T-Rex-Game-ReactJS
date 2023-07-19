@@ -1,1 +1,1 @@
-# DinoGame-ReactJS
+# T-Rex-Game-ReactJS
